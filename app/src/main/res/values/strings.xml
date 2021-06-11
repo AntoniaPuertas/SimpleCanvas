@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCanvas</string>
+    <string name="keep_tapping">Mantener pulsado</string>
+    <string name="done">Hecho!</string>
+</resources>
